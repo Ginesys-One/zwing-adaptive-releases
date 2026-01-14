@@ -1,80 +1,102 @@
-# 📦 Zwing Adaptive POS – Releases
+# Zwing Adaptive POS – Releases
 
-> This repository hosts official release builds of Zwing Adaptive POS for Windows and Linux.
+This repository hosts official release builds of Zwing Adaptive POS for Windows and Linux.
 
 ---
 
-## ℹ️ About
+## About
 
 This is a **release-only repository**.  
 Source code is maintained separately.
 
 ---
 
-## ⬇️ How to Download
+## Quick Start
 
-1. Click the **Releases** link on the right side of this page
-   or open the **Releases** tab at the top of the repository.
+### Download Instructions
 
-2. Select the latest release (marked as **Latest**).
-
-3. Download the file for your operating system:
-   - **Windows**: `Zwing-POS-Setup.exe`
-   - **Linux**: `Zwing_POS-x86_64.AppImage`
+1. Navigate to the **Releases** section (link on the right sidebar or **Releases** tab at the top)
+2. Select the latest release (marked as **Latest**)
+3. Download the appropriate installer for your operating system
 
 ---
 
-## 💻 Downloads
+## Platform Downloads
 
-### 🪟 Windows
+### Windows
 
-**Installer**: `Zwing-POS-Setup.exe`
+**Installer:** `Zwing-POS-Setup.exe`
 
-Run the installer and follow the on-screen instructions.
+**Installation:**
+1. Download the installer file
+2. Run `Zwing-POS-Setup.exe`
+3. Follow the on-screen installation wizard
+
+**System Requirements:**
+- Windows 10 or later (64-bit)
+- Modern 64-bit processor
 
 ---
 
-### 🐧 Linux
+### Linux
 
-**AppImage**: `Zwing_POS-x86_64.AppImage`
+**AppImage:** `Zwing_POS-x86_64.AppImage`
 
-Make it executable and run:
+**Installation:**
 
 ```bash
+# Make the AppImage executable
 chmod +x Zwing_POS-x86_64.AppImage
+
+# Run the application
 ./Zwing_POS-x86_64.AppImage
 ```
 
----
-
-## 🐛 Issues and Feedback
-
-If you encounter bugs or have feedback:
-
-- Open an issue in this repository
-
-**Please include:**
-- ✅ Operating system (Windows or Linux)
-- ✅ Application version
-- ✅ Steps to reproduce (if applicable)
+**System Requirements:**
+- Linux distribution with AppImage support
+- 64-bit x86_64 architecture
+- Modern desktop environment
 
 ---
 
-## 🔄 Updates
+## Support
 
-New versions are published through GitHub Releases.
+### Reporting Issues
 
-> **💡 Tip:** Always use the latest release for fixes and improvements.
+If you encounter bugs or technical issues, please open an issue in this repository.
+
+**Required Information:**
+- Operating system (Windows or Linux)
+- Application version number
+- Detailed steps to reproduce the issue (if applicable)
+- Error messages or screenshots (if available)
+
+### Feature Requests
+
+For feature requests or general feedback, please use the issue templates provided in this repository.
 
 ---
 
-## 📝 Notes
+## Updates
 
-- This repository contains compiled binaries only
-- Tested on modern 64-bit Windows and Linux systems
+New versions are published through GitHub Releases. We recommend always using the latest release to ensure you have the most recent fixes, security updates, and feature improvements.
+
+**To stay updated:**
+- Watch this repository for release notifications
+- Check the Releases page regularly
+- Review release notes for changes and improvements
 
 ---
 
-## 📄 License
+## Technical Information
 
-License information is provided with the application.
+- **Repository Type:** Release binaries only
+- **Architecture:** 64-bit (x86_64)
+- **Platforms:** Windows 10+, Modern Linux distributions
+- **Distribution Format:** Windows Installer (.exe), Linux AppImage
+
+---
+
+## License
+
+License information is provided with the application. Please refer to the license documentation included in your installation package.
