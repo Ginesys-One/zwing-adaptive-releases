@@ -2,14 +2,10 @@
 
 This repository hosts official release builds of Zwing Adaptive POS for Windows and Linux.
 
----
-
 ## About
 
 This is a **release-only repository**.  
 Source code is maintained separately.
-
----
 
 ## Quick Start
 
@@ -18,8 +14,6 @@ Source code is maintained separately.
 1. Navigate to the **Releases** section (link on the right sidebar or **Releases** tab at the top)
 2. Select the latest release (marked as **Latest**)
 3. Download the appropriate installer for your operating system
-
----
 
 ## Platform Downloads
 
@@ -35,8 +29,6 @@ Source code is maintained separately.
 **System Requirements:**
 - Windows 10 or later (64-bit)
 - Modern 64-bit processor
-
----
 
 ### Linux
 
@@ -57,8 +49,6 @@ chmod +x Zwing_POS-x86_64.AppImage
 - 64-bit x86_64 architecture
 - Modern desktop environment
 
----
-
 ## Support
 
 ### Reporting Issues
@@ -75,8 +65,6 @@ If you encounter bugs or technical issues, please open an issue in this reposito
 
 For feature requests or general feedback, please use the issue templates provided in this repository.
 
----
-
 ## Updates
 
 New versions are published through GitHub Releases. We recommend always using the latest release to ensure you have the most recent fixes, security updates, and feature improvements.
@@ -86,16 +74,12 @@ New versions are published through GitHub Releases. We recommend always using th
 - Check the Releases page regularly
 - Review release notes for changes and improvements
 
----
-
 ## Technical Information
 
 - **Repository Type:** Release binaries only
 - **Architecture:** 64-bit (x86_64)
 - **Platforms:** Windows 10+, Modern Linux distributions
 - **Distribution Format:** Windows Installer (.exe), Linux AppImage
-
----
 
 ## License
 
